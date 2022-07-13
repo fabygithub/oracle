@@ -1,0 +1,41 @@
+skill check oci introduction
+
+suscruibed oci region
+one availabily domain
+deploy a highly available application
+
+two servers 
+2-node database
+
+
+how to place the components to maintain 
+the high availability of the application
+
+
+1 server
+1 db node   =  in 1 fault domain
+
+
+2 server
+2 db node  =   in 2 fault domain
+
+hight avaivalibility is not possible
+because just 1 avaibabily domain in the region
+
+
+all the components in the same fault domain
+
+the server in 1 fault domain
+the db-node in another fault domain
+
+
+
+
+
+
+
+
+
+
+
+
