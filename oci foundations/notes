@@ -30,6 +30,41 @@ the db-node in another fault domain
 
 
 
+which three statements are true about oci
+
+fault domain =  1 logical data center whitin a region
+
+availability domain is 1 or more data centers located whitin a region
+
+oci region is a localized geographic area
+
+a single fault domain can be join with multible availability
+domain whitin a region
+
+availability not share insfraestructure such as porwer cooling 
+or network whitin a region
+
+
+
+which two statements are true about regions and availability domain
+
+fault domains protect against failures in availability domain
+
+fault domain protect againt failures across regions
+
+a region is composerd with for 1  o more availability domains
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
