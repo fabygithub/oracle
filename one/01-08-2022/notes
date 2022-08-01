@@ -2,6 +2,18 @@ notes
 multi-plataforma y tiene versiones para Windows, Linux y MAC.
 sigue las instrucciones de instalación hasta el final.
 interpretar un código escrito por nosotros.
+HTML que es el lenguaje utilizado para la presentación de datos e informaciones
+TAGs (etiquetas).
+
+La etiqueta <h1> es usada para exhibir el primer título de una página. Veamos un ejemplo:
+<h1>Bienvenido</h1>
+
+Para crear links usamos la etiqueta <a> (ancora). Esa etiqueta funciona de la siguiente manera:
+Visite <a href="http://www.aluracursos.com"> Alura Latam</a>
+
+
+
+
 
 
 
