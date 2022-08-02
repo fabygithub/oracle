@@ -1,0 +1,47 @@
+<h1>mi primer programa HTML!</h1>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+esto es realmente un programa? <a href="https://es.wikipedia.org/wiki/Wikipedia:Portada">aqui</a>
+
+<br>
+
+ingresa <a href="https://en.wikipedia.org/wiki/JavaScript">aqui</a> para ver JavaScript
+
+<script>
+alert("Esto si es un lenguaje de programacion");
+</script>
+
+
+alert"Esto si es un lenguaje de programacion";
+no esperaba un string
+
+Usar nuestro navegador para compilar nuestro código
+Usar Sublime o Notepad++ para escribir código
+Conceptos básicos de HTML: lenguaje de etiquetas
+A diferenciar el mundo HTML del mundo JavaScript
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
