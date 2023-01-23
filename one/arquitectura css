@@ -99,6 +99,24 @@ header{
 
 se refierer a los rellenos del header
 
+simplificando los selectores
+
+en vez de usar este orden :header nav ul
+
+conviene usar clases
+
+.menu-lista{
+    display: flex;
+}
+
+
+.menu-item:last-child .menu-link{
+    margin-right: 0;
+} 
+
+el ultimo elemento de la lista tiene margen 0
+
+#activo cambiar a .activo
 
 
 
