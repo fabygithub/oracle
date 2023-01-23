@@ -63,6 +63,37 @@ index.html esta a la misma altura que la carpeta assets = ./
     </body>
 </html>
 
+styles.css
+
+aling items : center 
+aliniar elementos al centro
+
+justify-content: space-between; 
+orden de los elementos
+
+
+header nav ul{
+    display: flex;
+}
+
+al ultimo elemento se le aplica los cambios
+seria a ul
+
+display: flex; 
+para que se ajuste uno del lado del otro
+
+text-transform: lowercase;
+tranformar todo a minuscula
+
+header{
+ display : flex
+ todo se mantiene al mismo nivel
+}
+
+#activo es un id
+
+
+
 
 
 
