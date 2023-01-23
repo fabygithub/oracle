@@ -25,6 +25,54 @@ en figma esta el prototipo
 
 normalize.css normalizar las diferencias entre un navegador y otro
 reset.css personalizar todo lo que queremos
+empezar a crear el index
+html no entiende español
+
+<ul> lista no ordenada
+<li> item
+<a> link
+
+index.html esta a la misma altura que la carpeta assets = ./
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Pacifico|Roboto:100,300,400,500,700,900" rel="stylesheet" />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>Fruta & Fruto</title>
+        <link href="./assets/css/normalize.css" rel="stylesheet" />
+        <link href="./assets/css/reset.css" rel="stylesheet" />
+        <link href="./assets/css/cabecera.css" rel="stylesheet" />
+    </head>
+    <body>
+        <header>
+            <img src="" alt="">
+                <nav>
+                    <list>
+                       <a href="">Inicio</a>
+                       <a href="">Resetas</a>
+                       <a href="">Quienes somos</a>
+                       <a href="">Contacto</a>
+
+                    </list>
+                </nav>
+            
+        </header>
+    </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
