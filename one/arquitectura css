@@ -91,6 +91,13 @@ header{
 }
 
 #activo es un id
+a:hover cuando el mouse pase por encima
+
+header{
+ padding-right: 2rem;
+}
+
+se refierer a los rellenos del header
 
 
 
