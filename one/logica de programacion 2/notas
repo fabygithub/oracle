@@ -1,0 +1,63 @@
+presentacion
+preparar el ambiente
+convirtiendo texto en numero
+total de invitados de la fiesta
+trabajando con condiciones
+
+sera que entra cumpliendo las condiciones
+if(numero >= 2 && numero < 12) {
+    alert("ENTRÓ!");
+}
+
+la condicion if else
+
+mientras que
+dejando muy claro que erro
+
+otra forma de repetir
+
+de while para for
+
+for( var contador = 1; contador <= 10; contador++ ) {
+    alert("Contador actual: " + contador);
+}
+
+acumulando variables
+todos los numeros pares del 1 al 10
+
+interrumpio la repeticion
+
+repeticiones anidadas
+campo de texto y boton
+
+<meta charset="UTF-8">
+
+<input />
+<button>Haz click aquí</button>
+
+<script>
+    var entrada = document.querySelector("input");
+    var boton = document.querySelector("button");
+</script>
+
+mejorando la usabilidad
+
+Exhibiendo en un alert el nombre digitado
+
+almacenando muchos datos
+declarando un array
+
+var cosas = ["Gisele", 12, true];
+usando un loop para carga de datos
+
+tamaño del array
+
+manipulando array
+ensalada de fruta
+
+validando duplicados
+refinando nuestro codigo
+
+
+
+
