@@ -1,0 +1,13 @@
+presentacion
+canvas
+pincel
+diseñar bandera
+siendo creativos de la bandera
+
+pincel.fillStyle = "green";
+pincel.fillRect(0,0,600,400);
+
+repetir codigo no es buenos programadores
+diseñar una flor
+
+proyecto del aula anterior
