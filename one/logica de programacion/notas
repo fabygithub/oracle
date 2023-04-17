@@ -1,0 +1,107 @@
+window linux mac
+html
+poliglota
+<h1>
+<script>
+
+convenio de codificacion
+¡Correcto! Existe una convención que establece el uso de etiquetas en 
+letras minúsculas en HTML, sin embargo, si usamos letras mayúsculas, 
+para el navegador no habrá diferencia alguna.
+
+concatenar caracteres
+operacion con textos y numeros
+
+Analice los siguientes códigos:
+copiar el codigo
+
+
+<meta charset="UTF-8">
+<script>
+    document.write(12 + " años");
+</script>
+
+
+<meta charset="UTF-8">
+<script>
+    document.write("Media calculada " + 20);
+</script>
+
+<meta charset="UTF-8">
+<script>
+    document.write("Estoy escribiendo desde el mundo JavaScript en el mundo HTML");
+</script>
+
+
+<meta charset="UTF-8">
+Estoy escribiendo desde el mundo JavaScript en el mundo HTML
+<script>
+
+</script>
+
+<meta charset="UTF-8">
+<script>
+    document.write(10 + 20);
+</script>
+
+reduciendo alteraciones
+
+corrigiendo errores de otros
+
+<meta charset="UTF-8">
+<script>
+    var mes = 6;
+    document.write("Realicé la prueba en el mes " + mes + ".");
+    mes = 7;
+    document.write("No, disculpe, realicé la prueba en el mes " + mes + ".");
+</script>
+
+variables
+
+donde esta el error
+
+<meta charset="UTF-8">
+<script>
+    var EDAD1 = 10;
+    var EDAD2 = "20";
+    var EDAD3 = 12;
+    document.write("La media de las edades es <br>");
+    document.write( (EDAD1 + EDAD2 + EDAD3) / 3);
+</script>
+
+falicitando nuestras vidas
+
+alcohol o gasolina
+
+mejorando el mantenimiento del codigo
+funciones
+sobre funciones
+
+
+funciones con parametros
+alerta diferentes
+
+calculo diferencia de edades
+
+calculando imc
+var peso = 75;
+var altura = 1.71;
+var imc = peso / ( altura * altura ); 
+
+retorno de funciones
+
+funcion que recibe mas de un parametro
+cual es el resultado
+
+interactuando con el usuario
+leyendo desde el teclado
+
+proyecto final
+
+
+
+
+
+
+
+
