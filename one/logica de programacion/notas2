@@ -1,0 +1,29 @@
+programar
+usuario
+programa dinamico variables
+propias funcionalidades
+resolver problemas del dia a dia
+
+How to Edit CSS Using Google Chrome Developer Tools
+//lo que se puede hacer es agregar nuevas reglas
+//cuando queda marcado en line no esta siendo utilizada la regla css
+__________
+
+//los margenes se marcan en cafe en developer tools
+body {
+    display: block;
+    margin: 50px;
+}
+
+https://app.aluracursos.com/course/logica-de-programacion-primeros-pasos/task/72772
+
+
+
+
+
+
+
+
+
+
+
