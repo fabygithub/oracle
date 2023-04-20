@@ -1,0 +1,22 @@
+para que funciones el <script>
+hay que cerrarlo </script>
+
+//ancho de una linea
+ctx.lineWidth = "20";
+
+//color
+ctx.strokeStyle = "green";  // Green path
+
+//ctx es como el objeto del canvas
+
+//se mueva a aun lugar dentro del canvas
+ctx.moveTo(0, 75);
+
+//logra dibujar
+ctx.stroke();  // Draw it
+
+//crea una linea
+ctx.lineTo(250, 75);
+
+
+
